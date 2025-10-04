@@ -1,0 +1,8 @@
+requests
+bs4
+uvicorn
+newspaper3k
+lxml_html_clean
+flask
+asgiref
+aiohttp
